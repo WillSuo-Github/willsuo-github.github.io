@@ -1,6 +1,6 @@
 # KeepDue Privacy Policy
 
-Last updated: 2026-04-23
+Last updated: 2026-04-24
 
 KeepDue is a manual-first subscription reminder app for Apple users.
 
@@ -51,4 +51,4 @@ If the shipped app changes materially, this policy must be updated before public
 ## Contact
 
 - Support email: `ws.software@outlook.com`
-- Support page: `see the published KeepDue support URL for the current live page`
+- Support page: `https://willsuo-github.github.io/keepdue/support/`

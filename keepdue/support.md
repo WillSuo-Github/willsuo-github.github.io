@@ -1,6 +1,6 @@
 # KeepDue Support
 
-Last updated: 2026-04-23
+Last updated: 2026-04-24
 
 KeepDue helps you catch subscription renewals and free-trial conversions before they charge, without linking your bank account.
 
