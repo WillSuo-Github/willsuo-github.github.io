@@ -4,6 +4,18 @@ Forgotten free trials usually do not happen because people are careless. They ha
 
 If the date lives in your memory, a crowded notes app, or an email you plan to find later, it is easy to miss. The better system is simple: record the deadline immediately and make the reminder appear before the final day.
 
+## The 60-second setup habit
+
+The safest moment to prevent a surprise charge is while you are still on the sign-up screen.
+
+Before closing the trial or subscription page, write down three things:
+
+1. The service name.
+2. The trial conversion or renewal date.
+3. The day you want to decide, cancel, or keep it.
+
+Then set the reminder before the final day. That small habit matters more than having another dashboard you only check after the charge appears.
+
 ## The simple iPhone system
 
 1. Add the trial or renewal date as soon as you sign up.

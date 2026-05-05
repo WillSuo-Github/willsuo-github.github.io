@@ -1,6 +1,6 @@
 # Free-trial reminder checklist for iPhone
 
-Last updated: 2026-05-03
+Last updated: 2026-05-06
 
 Forgotten free-trial charges usually come from one missed step: the cancellation or renewal deadline is not captured when the trial starts.
 
@@ -11,6 +11,8 @@ Use this checklist when you start a trial:
 3. Set the first reminder before the final day.
 4. Add a second reminder for expensive trials or annual plans.
 5. Keep the reminder somewhere that will interrupt you, not just somewhere that stores notes.
+
+If you only do one thing, do it before you close the sign-up screen. A reminder created later is easy to forget; a reminder created during sign-up becomes part of the trial setup.
 
 The useful question is not only "how much do I spend each month?" The urgent question is "what is about to charge, and when do I need to decide?"
 
