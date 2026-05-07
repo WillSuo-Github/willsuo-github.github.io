@@ -26,6 +26,8 @@ KeepDue Free currently supports up to 5 active subscriptions on one device.
 
 The launch policy is to keep this limit truthful instead of promising a purchase path that does not exist yet.
 
+[Read the free-limit guide](./guides/keepdue-free-limit-five-subscriptions-iphone/)
+
 ### Does the app link my bank account?
 
 No.
