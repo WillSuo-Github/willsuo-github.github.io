@@ -4,6 +4,8 @@ When an app asks for payment information before a free trial starts, the importa
 
 The safest habit is to record the deadline while the trial terms are still visible.
 
+[Open the shareable visual for this setup](https://willsuo-github.github.io/keepdue/share/payment-info-trial-deadline/)
+
 ## The 30-second setup
 
 1. Stay on the trial signup or confirmation screen.
