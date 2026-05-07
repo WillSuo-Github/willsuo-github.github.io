@@ -14,6 +14,28 @@ The goal is simple: record the service, the next charge date, and the reminder l
 
 If the subscription is important, do not wait until the final day. Give yourself enough time to decide whether to keep, cancel, downgrade, or check the terms.
 
+## Copyable renewal reminder template
+
+```text
+Subscription name:
+Next renewal date:
+Price:
+Billing cycle:
+Reminder timing:
+Where to check or cancel:
+Notes:
+```
+
+Fill this in while the receipt, account page, or App Store subscription screen is still open.
+
+## What to capture from the account page
+
+1. The next renewal or billing date.
+2. The current plan name and price.
+3. Whether the plan is monthly, annual, or another billing cycle.
+4. Where you would cancel, downgrade, or review the plan later.
+5. A note if the service needs support contact or advance notice to cancel.
+
 ## How early should the reminder be?
 
 For monthly subscriptions, a reminder one or two days before renewal is often enough.
