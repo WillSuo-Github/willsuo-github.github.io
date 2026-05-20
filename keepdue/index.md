@@ -13,6 +13,7 @@ KeepDue is a manual-first subscription reminder app for Apple users who want to 
 - [How to set a trial cancellation reminder on iPhone](./guides/trial-cancellation-reminder-iphone.md)
 - [How to set a subscription renewal reminder on iPhone](./guides/subscription-renewal-reminder-iphone.md)
 - [Subscription reminder app without bank linking on iPhone](./guides/subscription-reminder-without-bank-account-iphone.md)
+- [Subscription reminder on iPhone without paying for another subscription](./guides/subscription-reminder-without-another-subscription-iphone.md)
 
 ## Product truth
 
