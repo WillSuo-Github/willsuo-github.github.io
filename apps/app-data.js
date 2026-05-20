@@ -1,4 +1,70 @@
 window.APP_PAGE_DATA = {
+  dropsort: {
+    name: "DropSort",
+    shortName: "DropSort",
+    tagline: "Downloads cleanup without Hazel complexity",
+    contactEmail: "ws.software@outlook.com",
+    lastUpdated: "May 20, 2026",
+    support: {
+      title: "DropSort Support",
+      headline: "Help for the DropSort preview and early beta list.",
+      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build.",
+      sections: [
+        {
+          heading: "What DropSort Is Trying To Do",
+          items: [
+            "Watch the Downloads folder or another selected working folder.",
+            "Apply a small set of starter rules so common file types go where you expect.",
+            "Show a preview before moving files so the app feels safer than blind automation.",
+            "Let you undo the latest sort run instead of forcing you to repair a mistake manually."
+          ]
+        },
+        {
+          heading: "Current Status",
+          body: "DropSort is in pre-beta planning. There is no public Mac download yet. The current support page exists so early interested users and App Store review later have a stable contact and product description."
+        },
+        {
+          heading: "How To Join The Early List",
+          body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, and whether a one-time $9.99 utility would feel reasonable."
+        },
+        {
+          heading: "What To Include In Early Feedback",
+          items: [
+            "Your most common Downloads clutter, such as screenshots, PDFs, ZIP files, installers, or invoices.",
+            "Whether you want fully automatic sorting or prefer a preview-first workflow.",
+            "What made past file-automation tools feel too complex, too risky, or not worth setting up."
+          ]
+        }
+      ]
+    },
+    privacy: {
+      title: "DropSort Privacy Policy",
+      headline: "Local-first file organization, with no account in the planned MVP.",
+      intro: "This policy describes the intended privacy posture for DropSort's planned first Mac build and the current pre-beta interest page.",
+      sections: [
+        {
+          heading: "Current Public Page",
+          body: "The current public page is a static GitHub Pages site. If you choose to email support or request beta access, the email content goes through your own email provider and the support mailbox. The page itself does not create a DropSort account for you."
+        },
+        {
+          heading: "Planned MVP Data Handling",
+          body: "The planned first Mac build is intended to watch only folders you explicitly choose, apply local rules, preview proposed moves, and store recent sort history locally so undo is possible. The product is being designed as a local-first utility without a required DropSort account."
+        },
+        {
+          heading: "Files And Metadata",
+          body: "In the planned MVP, file names, paths, timestamps, and rule results would be used locally on device to decide where files should move. The company should update this policy before release if the implementation adds cloud sync, remote processing, analytics, crash reporting, or any third-party SDK."
+        },
+        {
+          heading: "Network And Third Parties",
+          body: "No DropSort backend, payment SDK, analytics SDK, advertising SDK, or cloud sync service is currently implemented in this repository state. If that changes, the policy and App Store privacy answers must be updated before external release."
+        },
+        {
+          heading: "Support",
+          body: "Support may ask for your macOS version, the folder types you want to organize, and a description of the workflow you want. Do not send private files unless you intentionally choose to share a specific example for debugging after a beta exists."
+        }
+      ]
+    }
+  },
   screencue: {
     name: "ScreenCue",
     shortName: "ScreenCue",
