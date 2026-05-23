@@ -4,11 +4,11 @@ window.APP_PAGE_DATA = {
     shortName: "DropSort",
     tagline: "Preview-first Downloads cleanup without Hazel complexity",
     contactEmail: "ws.software@outlook.com",
-    lastUpdated: "May 20, 2026",
+    lastUpdated: "May 23, 2026",
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview and early beta list.",
-      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is being shaped around preview-first trust.",
+      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as a preview-first, non-image-first utility.",
       sections: [
         {
           heading: "What DropSort Is Trying To Do",
@@ -25,14 +25,14 @@ window.APP_PAGE_DATA = {
         },
         {
           heading: "How To Join The Early List",
-          body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, whether preview-first is a hard requirement, and whether a one-time $9.99 utility would feel reasonable."
+          body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, whether preview-first is a hard requirement, whether a first version that starts with PDFs / ZIPs / installers / docs / exports would still be useful, and whether a one-time $9.99 utility would feel reasonable."
         },
         {
           heading: "What To Include In Early Feedback",
           items: [
-            "Your most common Downloads clutter, such as screenshots, PDFs, ZIP files, installers, or invoices.",
+            "Your most common Downloads clutter, such as PDFs, ZIP files, installers, exports, stray documents, or images.",
             "Whether you want fully automatic sorting or prefer a preview-first workflow.",
-            "Whether images only need simple buckets like screenshot / photo / export, or whether they need deeper labels before the result feels trustworthy.",
+            "Whether a first version that ignores images is still useful, or whether image handling is a hard requirement before you would try it.",
             "What made past file-automation tools feel too complex, too risky, or not worth setting up."
           ]
         }
