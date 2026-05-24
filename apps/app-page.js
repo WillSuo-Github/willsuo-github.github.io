@@ -42,6 +42,21 @@
       panel.appendChild(text("p", section.body));
     }
 
+    if (section.links && section.links.length) {
+      var links = document.createElement("p");
+      links.className = "meta";
+      section.links.forEach(function (link, index) {
+        if (index > 0) {
+          links.appendChild(document.createTextNode(" · "));
+        }
+        var anchor = document.createElement("a");
+        anchor.href = link.href;
+        anchor.textContent = link.label;
+        links.appendChild(anchor);
+      });
+      panel.appendChild(links);
+    }
+
     if (section.items && section.items.length) {
       var list = document.createElement("ul");
       list.className = "list";

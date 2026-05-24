@@ -4,7 +4,7 @@ window.APP_PAGE_DATA = {
     shortName: "DropSort",
     tagline: "Preview-first Downloads cleanup without Hazel complexity",
     contactEmail: "ws.software@outlook.com",
-    lastUpdated: "May 23, 2026",
+    lastUpdated: "May 24, 2026",
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview and early beta list.",
@@ -26,6 +26,24 @@ window.APP_PAGE_DATA = {
         {
           heading: "How To Join The Early List",
           body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, whether preview-first is a hard requirement, whether a first version that starts with PDFs / ZIPs / installers / docs / exports would still be useful, and whether a one-time $9.99 utility would feel reasonable."
+        },
+        {
+          heading: "Public Feedback Backup",
+          body: "If you prefer a public thread over email, use one of the structured GitHub issue forms below.",
+          links: [
+            {
+              label: "Open beta-interest issue",
+              href: "https://github.com/WillSuo-Github/willsuo-github.github.io/issues/new?template=dropsort-beta-interest.yml"
+            },
+            {
+              label: "Open non-image-v1 issue",
+              href: "https://github.com/WillSuo-Github/willsuo-github.github.io/issues/new?template=dropsort-non-image-v1.yml"
+            },
+            {
+              label: "Open pricing-reaction issue",
+              href: "https://github.com/WillSuo-Github/willsuo-github.github.io/issues/new?template=dropsort-pricing-reaction.yml"
+            }
+          ]
         },
         {
           heading: "What To Include In Early Feedback",

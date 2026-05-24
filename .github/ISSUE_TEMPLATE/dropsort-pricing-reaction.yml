@@ -1,0 +1,31 @@
+name: DropSort pricing reaction
+description: Share whether a one-time $9.99 utility feels reasonable.
+title: "[DropSort pricing] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        DropSort is testing a one-time paid utility price around $9.99, not a subscription.
+  - type: dropdown
+    id: reaction
+    attributes:
+      label: Initial price reaction
+      options:
+        - Reasonable
+        - Too high
+        - Would try a free beta first
+        - Not enough value yet
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: A short explanation is enough
+    validations:
+      required: true
+  - type: input
+    id: alternative
+    attributes:
+      label: If not $9.99, what feels closer?
+      placeholder: $4.99, free beta first, or another answer

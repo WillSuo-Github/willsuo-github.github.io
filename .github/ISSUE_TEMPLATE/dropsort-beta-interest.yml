@@ -1,0 +1,36 @@
+name: DropSort beta interest
+description: Tell us what folder mess you would want DropSort to clean up first.
+title: "[DropSort beta] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing early feedback on DropSort.
+  - type: textarea
+    id: mess
+    attributes:
+      label: Main Downloads mess
+      description: What clutter builds up most often?
+      placeholder: PDFs, ZIPs, installers, exports, stray docs, or something else
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: How you handle it today
+      description: Hazel, scripts, Finder folders, manual cleanup, or another tool
+  - type: dropdown
+    id: preview_first
+    attributes:
+      label: Is preview-first a hard requirement?
+      options:
+        - "Yes"
+        - "No"
+        - "Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Use this for beta interest, current pain, or tool comparison

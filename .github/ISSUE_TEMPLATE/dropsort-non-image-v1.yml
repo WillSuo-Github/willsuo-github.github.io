@@ -1,0 +1,35 @@
+name: DropSort non-image v1 feedback
+description: Say whether a first version that ignores images would still be useful.
+title: "[DropSort non-image v1] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        DropSort is currently testing a narrower first version that starts with PDFs, ZIPs, installers, docs, and exports.
+  - type: dropdown
+    id: useful
+    attributes:
+      label: Would that still be useful enough to try?
+      options:
+        - "Yes"
+        - "No"
+        - "Maybe"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What makes the non-image-first version useful or not useful?
+    validations:
+      required: true
+  - type: input
+    id: folder
+    attributes:
+      label: First folder you would try
+      placeholder: Downloads, exports, project handoff folder, etc.
+  - type: textarea
+    id: missing
+    attributes:
+      label: What would still be missing?
+      description: Mention any image handling or rule behavior you would need later
