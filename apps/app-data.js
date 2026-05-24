@@ -29,8 +29,12 @@ window.APP_PAGE_DATA = {
         },
         {
           heading: "Public Feedback Backup",
-          body: "If you prefer a public thread over email and already use GitHub, use one of the structured GitHub issue forms below. GitHub will ask you to sign in first.",
+          body: "If you prefer a public thread over email and already use GitHub, comment on the public feedback thread or use one of the structured GitHub issue forms below. GitHub will ask you to sign in first.",
           links: [
+            {
+              label: "Open public feedback thread",
+              href: "https://github.com/WillSuo-Github/willsuo-github.github.io/issues/1"
+            },
             {
               label: "Open beta-interest issue",
               href: "https://github.com/WillSuo-Github/willsuo-github.github.io/issues/new?template=dropsort-beta-interest.yml"
