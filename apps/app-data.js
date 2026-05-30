@@ -2,19 +2,19 @@ window.APP_PAGE_DATA = {
   dropsort: {
     name: "DropSort",
     shortName: "DropSort",
-    tagline: "Preview-first Downloads cleanup without Hazel complexity",
+    tagline: "Opinionated preview-first Downloads cleanup",
     contactEmail: "ws.software@outlook.com",
-    lastUpdated: "May 24, 2026",
+    lastUpdated: "May 31, 2026",
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview and early beta list.",
-      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as a preview-first, non-image-first utility.",
+      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as an opinionated, preview-first, non-image-first utility rather than a full rule engine.",
       sections: [
         {
           heading: "What DropSort Is Trying To Do",
           items: [
             "Watch the Downloads folder or another selected working folder.",
-            "Apply a small set of starter rules so common file types go where you expect.",
+            "Apply a small, opinionated set of starter rules so common file types go where you expect.",
             "Show a preview before moving files so the app feels safer than blind automation.",
             "Let you undo the latest sort run instead of forcing you to repair a mistake manually."
           ]
@@ -25,7 +25,7 @@ window.APP_PAGE_DATA = {
         },
         {
           heading: "How To Join The Early List",
-          body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, whether preview-first is a hard requirement, whether a first version that starts with PDFs / ZIPs / installers / docs / exports would still be useful, and whether a one-time $9.99 utility would feel reasonable."
+          body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, whether preview-first is a hard requirement, whether a first version that starts with PDFs / ZIPs / installers / docs / exports would still be useful, whether a one-time $9.99 utility would feel reasonable, and what one default behavior would still be missing."
         },
         {
           heading: "Public Feedback Backup",
@@ -55,6 +55,7 @@ window.APP_PAGE_DATA = {
             "Your most common Downloads clutter, such as PDFs, ZIP files, installers, exports, stray documents, or images.",
             "Whether you want fully automatic sorting or prefer a preview-first workflow.",
             "Whether a first version that ignores images is still useful, or whether image handling is a hard requirement before you would try it.",
+            "What one default behavior would still be missing before the opinionated cleaner feels worth trying.",
             "What made past file-automation tools feel too complex, too risky, or not worth setting up."
           ]
         }
