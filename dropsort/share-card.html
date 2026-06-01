@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DropSort Share Card</title>
+    <link rel="stylesheet" href="./share-card.css">
+  </head>
+  <body>
+    <main class="card-shell">
+      <section class="card">
+        <div class="card-top">
+          <div class="brand-row">
+            <div class="brand">
+              <span class="brand-mark">D</span>
+              <span class="brand-name">DropSort</span>
+            </div>
+            <span class="eyebrow">macOS concept</span>
+          </div>
+          <h1>Preview-first Downloads cleanup for the boring file pileup.</h1>
+          <p class="lede">
+            A planned Mac utility for installers, ZIPs, PDFs, docs, and exports.
+            Show the move plan first, then let the user undo the last sort run if it is wrong.
+          </p>
+        </div>
+
+        <div class="preview-window" aria-label="DropSort concept preview">
+          <div class="window-bar">
+            <span class="dot red"></span>
+            <span class="dot amber"></span>
+            <span class="dot green"></span>
+            <span class="window-title">Preview-first sort plan</span>
+          </div>
+
+          <div class="window-body">
+            <section class="pane">
+              <h2>Current folder</h2>
+              <ul class="file-list">
+                <li><span class="pill installer">PKG</span><span>Notion.pkg</span></li>
+                <li><span class="pill archive">ZIP</span><span>client-assets.zip</span></li>
+                <li><span class="pill doc">PDF</span><span>invoice-may.pdf</span></li>
+                <li><span class="pill export">CSV</span><span>campaign-export.csv</span></li>
+              </ul>
+            </section>
+
+            <section class="pane plan-pane">
+              <h2>Proposed moves</h2>
+              <ul class="plan-list">
+                <li><span>Notion.pkg</span><span class="arrow">→</span><strong>Installers</strong></li>
+                <li><span>client-assets.zip</span><span class="arrow">→</span><strong>Archives</strong></li>
+                <li><span>invoice-may.pdf</span><span class="arrow">→</span><strong>Documents</strong></li>
+                <li><span>campaign-export.csv</span><span class="arrow">→</span><strong>Exports</strong></li>
+              </ul>
+            </section>
+          </div>
+
+          <div class="window-footer">
+            <span class="status success">Preview before run</span>
+            <span class="status">Undo last sort</span>
+            <span class="status">No image sorting in v1</span>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
