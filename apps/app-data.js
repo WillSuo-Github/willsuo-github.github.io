@@ -4,7 +4,7 @@ window.APP_PAGE_DATA = {
     shortName: "DropSort",
     tagline: "Opinionated preview-first Downloads cleanup",
     contactEmail: "ws.software@outlook.com",
-    lastUpdated: "May 31, 2026",
+    lastUpdated: "June 1, 2026",
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview and early beta list.",
