@@ -8,7 +8,7 @@ window.APP_PAGE_DATA = {
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview, early beta list, and current product questions.",
-      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as an opinionated, preview-first, non-image-first utility rather than a full rule engine. The most useful feedback right now is about trial friction, source-based grouping, and whether preview plus undo solves the fear that automation just hides files.",
+      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as an opinionated, preview-first, non-image-first utility rather than a full rule engine. The most useful feedback right now is about trial friction, source-based grouping, whether preview plus undo solves the fear that automation just hides files, and whether buyers actually want a broader source-aware organizer instead of a calmer cleaner.",
       sections: [
         {
           heading: "What DropSort Is Trying To Do",
@@ -57,6 +57,7 @@ window.APP_PAGE_DATA = {
             "Whether a first version that ignores images is still useful, or whether image handling is a hard requirement before you would try it.",
             "Whether you would expect a short trial or a free preview/manual mode before paying $9.99 one-time.",
             "Whether grouping by browser/app/site of origin sounds more useful than simple file-type buckets.",
+            "Whether you would actually want broader source-aware routing and deeper rule logic instead of a calmer preview-first cleaner.",
             "What one default behavior would still be missing before the opinionated cleaner feels worth trying.",
             "What made past file-automation tools feel too complex, too risky, or not worth setting up."
           ]
