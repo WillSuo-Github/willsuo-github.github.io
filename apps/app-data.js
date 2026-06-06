@@ -4,7 +4,7 @@ window.APP_PAGE_DATA = {
     shortName: "DropSort",
     tagline: "Opinionated preview-first Downloads cleanup",
     contactEmail: "ws.software@outlook.com",
-    lastUpdated: "June 5, 2026",
+    lastUpdated: "June 6, 2026",
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview, early beta list, and current product questions.",
@@ -26,6 +26,10 @@ window.APP_PAGE_DATA = {
         {
           heading: "How To Join The Early List",
           body: "Email ws.software@outlook.com with the subject line 'DropSort beta'. If useful, include how often your Downloads folder gets messy, whether you already use Hazel or scripts, whether preview-first is a hard requirement, whether a first version that starts with PDFs / ZIPs / installers / docs / exports would still be useful, whether a one-time $9.99 utility would feel reasonable, and what one default behavior would still be missing."
+        },
+        {
+          heading: "Fastest Useful Reply",
+          body: "If you only want to send one short answer, the most useful current choice is one of these: 'cleanup first', 'source first', or 'trial first'. You can email that exact phrase plus one sentence about why."
         },
         {
           heading: "Public Feedback Backup",

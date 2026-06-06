@@ -303,6 +303,11 @@ li {
   gap: 14px;
 }
 
+.action-grid-compact .action-link {
+  padding: 16px;
+  background: color-mix(in srgb, #34c759 7%, Canvas 93%);
+}
+
 .action-link {
   display: flex;
   flex-direction: column;
