@@ -8,7 +8,7 @@ window.APP_PAGE_DATA = {
     support: {
       title: "DropSort Support",
       headline: "Help for the DropSort preview, early beta list, and current product questions.",
-      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as an opinionated, preview-first, non-image-first utility rather than a full rule engine. The current wedge is for people who want calmer defaults without writing or maintaining rules or scripts. The most useful feedback right now is about trial friction, source-based grouping, whether preview plus undo solves the fear that automation just hides files, and whether buyers actually want a broader source-aware organizer instead of a calmer cleaner.",
+      intro: "DropSort is a planned macOS utility for people whose Downloads folder and working folders turn into repetitive cleanup. The current public page is a pre-beta interest page, not a shipped Mac build, and the first build is now being tested as an opinionated, preview-first, non-image-first utility rather than a full rule engine. The current wedge is for people who want calmer defaults without writing or maintaining rules or scripts. The most useful feedback right now is about trial friction, source-based grouping, whether a visible move plan plus undo solves the fear that automation just hides files, and whether buyers actually want a broader source-aware organizer instead of a calmer cleaner.",
       sections: [
         {
           heading: "What DropSort Is Trying To Do",
@@ -16,6 +16,7 @@ window.APP_PAGE_DATA = {
             "Watch the Downloads folder or another selected working folder.",
             "Apply a small, opinionated set of starter rules so common file types go where you expect.",
             "Show a preview before moving files so the app feels safer than blind automation.",
+            "Ask for one visible approval step before a sort run instead of quietly shuffling files in the background.",
             "Let you undo the latest sort run instead of forcing you to repair a mistake manually."
           ]
         },
@@ -29,7 +30,7 @@ window.APP_PAGE_DATA = {
         },
         {
           heading: "Fastest Useful Reply",
-          body: "If you only want to send one short answer, the most useful current choice is one of these: 'cleanup first', 'source first', or 'trial first'. You can email that exact phrase plus one sentence about why."
+          body: "If you only want to send one short answer, the most useful current choice is one of these: 'cleanup first', 'source first', or 'trial first'. You can email that exact phrase plus one sentence about why, especially if the visible-plan approval step still would or would not make the app feel trustworthy."
         },
         {
           heading: "Public Feedback Backup",
@@ -57,14 +58,14 @@ window.APP_PAGE_DATA = {
           heading: "What To Include In Early Feedback",
           items: [
             "Your most common Downloads clutter, such as PDFs, ZIP files, installers, exports, stray documents, or images.",
-            "Whether you want fully automatic sorting or prefer a preview-first workflow.",
+            "Whether you want fully automatic sorting or prefer a preview-first workflow with an explicit approval step.",
             "Whether a first version that ignores images is still useful, or whether image handling is a hard requirement before you would try it.",
             "Whether you would expect a short trial or a free preview/manual mode before paying $9.99 one-time.",
             "Whether grouping by browser/app/site of origin sounds more useful than simple file-type buckets.",
             "Whether you would actually want broader source-aware routing and deeper rule logic instead of a calmer preview-first cleaner.",
             "Whether you would still rather keep using Hazel or your own script even if DropSort stayed intentionally narrow.",
             "What one default behavior would still be missing before the opinionated cleaner feels worth trying.",
-            "What made past file-automation tools feel too complex, too risky, or not worth setting up."
+            "What made past file-automation tools feel too complex, too risky, too hidden, or not worth setting up."
           ]
         }
       ]
